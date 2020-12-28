@@ -1,7 +1,7 @@
 # P21_ML_Applications_Twitter_SOM_Clustering_NN_D1
 Project2 MLNN
 
-The full description of the project is [here](https://github.com/arnaud22560/P21_ML_Applications_Twitter_SOM_Clustering_NN_D1/blob/main/P21_ML_Applications_Twitter_SOM_Clustering_NN_D1.pdf) and our report is [here](https://github.com/arnaud22560/P21_ML_Applications_Twitter_SOM_Clustering_NN_D1/blob/main/LeDoeuff_Dorado%20-%20ML_Tweets_SOM_Clustering.zip).
+The full description of the project is [here](https://github.com/arnaud22560/P21_ML_Applications_Twitter_SOM_Clustering_NN_D1/blob/main/P21_ML_Applications_Twitter_SOM_Clustering_NN_D1.pdf) and our report is [here](https://github.com/arnaud22560/P21_ML_Applications_Twitter_SOM_Clustering_NN_D1/blob/main/Report_Clustering_tweets_about_Machine_Learning_using_Self_Organizing_Maps.pdf).
 
 ## Task
 
